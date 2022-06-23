@@ -15,7 +15,7 @@ const greeting = {
     "A passionate AI-ML enthusiast, Working in field of data science & a self taught web  Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://www.canva.com/design/DAEgc-iTnTo/-81z7Ja9o6Z_4KPkuJSchg/view?utm_content=DAEgc-iTnTo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+    "https://www.canva.com/design/DAEgc-iTnTo/8sDo0-U50JpUUBUkEzA-0w/view?utm_content=DAEgc-iTnTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
